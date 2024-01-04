@@ -39,7 +39,7 @@ const CheckOut = () => {
       <div className="wrapper">
         <div className="items-container">
           {
-            checkedOut && <h1>Orders Placed SuccessFully</h1>
+            checkedOut && <h1>Your Order is Placed!! Thank you for visiting !!!</h1>
           }
           {
             data &&
